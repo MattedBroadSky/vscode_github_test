@@ -1,0 +1,11 @@
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\bin\Debug\netcoreapp2.2\vscode_test.deps.json
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\bin\Debug\netcoreapp2.2\vscode_test.runtimeconfig.json
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\bin\Debug\netcoreapp2.2\vscode_test.runtimeconfig.dev.json
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\bin\Debug\netcoreapp2.2\vscode_test.dll
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\bin\Debug\netcoreapp2.2\vscode_test.pdb
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\obj\Debug\netcoreapp2.2\vscode_test.csprojAssemblyReference.cache
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\obj\Debug\netcoreapp2.2\vscode_test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\obj\Debug\netcoreapp2.2\vscode_test.AssemblyInfoInputs.cache
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\obj\Debug\netcoreapp2.2\vscode_test.AssemblyInfo.cs
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\obj\Debug\netcoreapp2.2\vscode_test.dll
+D:\OneDrive\Visual Studio Project\vscode_test\vscode_test\obj\Debug\netcoreapp2.2\vscode_test.pdb

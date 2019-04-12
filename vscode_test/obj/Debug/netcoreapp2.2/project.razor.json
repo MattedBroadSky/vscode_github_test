@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\OneDrive\\Visual Studio Project\\vscode_test\\vscode_test\\vscode_test.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
